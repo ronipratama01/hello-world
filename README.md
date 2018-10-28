@@ -1,4 +1,4 @@
 # hello-world
 
-introduce my name Ravick
+introduce my name is Roni
 I'm a new member on Github
